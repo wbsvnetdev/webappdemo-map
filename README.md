@@ -1,6 +1,6 @@
 # Deploying a docker image of a nodejs app 
 
-This simple nodejs app can be used for demo purpose.
+This simple nodejs app can be used for demo purpose. It displays the client ip address making the http request and its geolocation on a map
 
 - **Pre-requisites**
 - Docker installed
